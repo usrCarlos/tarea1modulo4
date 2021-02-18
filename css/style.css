@@ -1,0 +1,25 @@
+.logo{
+    width: 250px;
+}
+
+.logoG{
+    width: 350px;
+}
+
+.justificado{
+    text-align: justify;
+}
+
+.text__footer{
+    color:azure;
+    text-align: center;
+}
+
+#more {
+    display: none;
+}
+
+caption {
+    caption-side:top;
+    color:black;
+}
